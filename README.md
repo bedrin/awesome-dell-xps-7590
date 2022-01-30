@@ -3,7 +3,15 @@ Tips to improve your experience with Dell XPS 7590 and other Dell laptops.
 
 Disclaimer: all these instructions are written for Dell Vostro 7590 which is (almost) sharing the chassis with Dell XPS 7590 and Dell Inspiron 15 7000. Repository name says XPS for clickbait reasons since it's a much more popular model. Most (if not all) instructions are applicable for Dell XPS 7590 and many other Dell models as well.
 
+# XPS vs Vostro vs Inspiron
+
+https://www.dell.com/support/manuals/en-us/xps-15-7590-laptop/xps-15-7590-setup-and-specifications/dimensions-and-weight?guid=guid-7df32f47-45cf-4a08-ad99-b01eec4f3ce6&lang=en-us
+https://www.dell.com/support/manuals/en-us/vostro-15-7590-laptop/vos7590_setupspecs/dimensions-and-weight?guid=guid-5c33f917-293a-4bb4-a06c-f72cc5f41548&lang=en-us
+https://www.dell.com/support/manuals/en-us/inspiron-15-7590-laptop/inspiron-7590-setup-and-specifications/dimensions-and-weight?guid=guid-7df32f47-45cf-4a08-ad99-b01eec4f3ce6&lang=en-us
+
 # Configuration
+
+Make sure to choose option without HDD - it comes with big battery
 
 # Upgrades
 
