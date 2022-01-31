@@ -3,6 +3,12 @@ Tips to improve your experience with Dell XPS 7590 and other Dell laptops.
 
 Disclaimer: all these instructions are written for Dell Vostro 7590 which is (almost) sharing the chassis with Dell XPS 7590 and Dell Inspiron 15 7000. Repository name says XPS for clickbait reasons since it's a much more popular model. Most (if not all) instructions are applicable for Dell XPS 7590 and many other Dell models as well.
 
+# Fixes
+
+## Touchpad not working after sleep
+
+https://www.dell.com/community/XPS/XPS-15-7590-touchpad-does-not-respond-sometimes/td-p/7655356/page/7
+
 # XPS vs Vostro vs Inspiron
 
 Only major differences are shown
