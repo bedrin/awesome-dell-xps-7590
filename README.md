@@ -5,9 +5,23 @@ Disclaimer: all these instructions are written for Dell Vostro 7590 which is (al
 
 # XPS vs Vostro vs Inspiron
 
-https://www.dell.com/support/manuals/en-us/xps-15-7590-laptop/xps-15-7590-setup-and-specifications/dimensions-and-weight?guid=guid-7df32f47-45cf-4a08-ad99-b01eec4f3ce6&lang=en-us
-https://www.dell.com/support/manuals/en-us/vostro-15-7590-laptop/vos7590_setupspecs/dimensions-and-weight?guid=guid-5c33f917-293a-4bb4-a06c-f72cc5f41548&lang=en-us
-https://www.dell.com/support/manuals/en-us/inspiron-15-7590-laptop/inspiron-7590-setup-and-specifications/dimensions-and-weight?guid=guid-7df32f47-45cf-4a08-ad99-b01eec4f3ce6&lang=en-us
+Only major differences are shown
+
+| | XPS 7590 | Vostro 7590 | Inspiron 7590 |
+| -- |  -- | -- | -- |
+| Display | FHD 500 nits or touch UHD 500 nits or OLED UHD 400 nits | FHD 300 nits or UHD 400 nits | FHD 300 nits or UHD 500 nits |
+| Weight | 1.8 Kg | 1.9 Kg | 1.8 Kg |
+| Material | Aluminium with carbon-fiber | Aluminium | Magnesium |
+| Keyboard | 80 keys | 101 keys | 101 keys |
+| Top CPU | Up to i9-9980HK | i9-9880H listed on site but not seen on the market | i9-9880H listed on site but not seen on the market |
+| Chipset | CM246 | HM370 | HM370 |
+| Card-Reader | SD | microSD | microSD |
+| USB type A | 2 ports | 3 ports | 3 ports |
+| Wireless (upgradeable) | WiFi 6 | WiFi 5 | WiFi 5 |
+| M.2 Storage | 1 slot | 2 slots | 2 slots |
+| security-cable slot (wedge-shaped) | yes | no | no |
+| Support | https://www.dell.com/support/manuals/en-us/xps-15-7590-laptop/xps-15-7590-setup-and-specifications/dimensions-and-weight?guid=guid-7df32f47-45cf-4a08-ad99-b01eec4f3ce6&lang=en-us | https://www.dell.com/support/manuals/en-us/vostro-15-7590-laptop/vos7590_setupspecs/dimensions-and-weight?guid=guid-5c33f917-293a-4bb4-a06c-f72cc5f41548&lang=en-us | https://www.dell.com/support/manuals/en-us/inspiron-15-7590-laptop/inspiron-7590-setup-and-specifications/dimensions-and-weight?guid=guid-7df32f47-45cf-4a08-ad99-b01eec4f3ce6&lang=en-us |
+
 
 # Configuration
 
