@@ -9,6 +9,25 @@ Disclaimer: all these instructions are written for Dell Vostro 7590 which is (al
 
 https://www.dell.com/community/XPS/XPS-15-7590-touchpad-does-not-respond-sometimes/td-p/7655356/page/7
 
+## Laptop is hot in sleep mode and drains battery
+
+Use hibernate instead of sleep
+
+## Coil whine
+
+Undervolting and underclocking using Throttlestop
+https://www.ultrabookreview.com/31385-the-throttlestop-guide/
+
+MSI Afterburner for undervolting GPU
+
+## Annoying fans
+
+https://github.com/AaronKelley/DellFanManagement
+
+# Thermal modding
+
+https://www.reddit.com/r/Dell/comments/g2qbco/xps_15_custom_heatsink_solution_to_overheating_to/
+
 # XPS vs Vostro vs Inspiron
 
 Only major differences are shown
