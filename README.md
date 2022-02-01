@@ -20,6 +20,9 @@ https://www.ultrabookreview.com/31385-the-throttlestop-guide/
 
 MSI Afterburner for undervolting GPU
 
+On Windows 10 with disabled virtualisation requires Bios 1.5.1 or lower.
+On Windows 11 with virtualization enabled, it requires more steps - see here: https://www.techpowerup.com/forums/threads/throttlestop-dead-on-windows-11.284102/page-3
+
 ## Annoying fans
 
 https://github.com/AaronKelley/DellFanManagement
