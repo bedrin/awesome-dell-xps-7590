@@ -27,6 +27,7 @@ https://github.com/tianocore/tianocore.github.io/wiki/Getting-Started-with-EDK-I
 https://github.com/tianocore/tianocore.github.io/wiki/Windows-systems
 
 https://www.reddit.com/r/XPS/comments/sh02yr/undervolting_my_9510_11800h_with_windows_11_and/
+https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/
 
 ## Annoying fans
 
