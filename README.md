@@ -90,6 +90,23 @@ People on reddit collated a table of supported RAM for the 9570 (previous) gener
 
 Update to WiFi 6 is possible. No details yet
 
+# Peripherals
+
+## Charger
+
+Default barrel-connector charger is quite bulky. You can use any USB-C compact charger with 65W+ as an alternative.
+Please note that laptop will draw only 65W from non-DELL chargers.
+Please note that if you charger outputs says 60W your laptop will only charge while it's turned off.
+
+## Monitor
+
+USB-C monitor recommended since it can both provide power and output video.
+Look for monitors with power output over 65W
+
+If you go for Dell monitor, your laptop will be able to draw over 65 Watts
+
+##
+
 # BIOS
 
 While addressing certain security issues, most recent BIOS updates disable undervolting.
