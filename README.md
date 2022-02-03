@@ -29,6 +29,8 @@ https://github.com/tianocore/tianocore.github.io/wiki/Windows-systems
 https://www.reddit.com/r/XPS/comments/sh02yr/undervolting_my_9510_11800h_with_windows_11_and/
 https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-and-more-tips-to-improve-thermals-battery-life-and-speed/
 
+https://bradshacks.com/disable-dptf/#:~:text=In%20Device%20Manager%2C%20find%20all,for%20this%20device%22%20whenever%20available
+
 ## Annoying fans
 
 https://github.com/AaronKelley/DellFanManagement
