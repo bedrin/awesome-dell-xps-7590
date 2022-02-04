@@ -33,6 +33,8 @@ https://bradshacks.com/disable-dptf/#:~:text=In%20Device%20Manager%2C%20find%20a
 
 https://www.reddit.com/r/Dell/comments/kpaouc/g7_15_7590_uefi_unlock_undervolting_and_remove/
 
+https://www.reddit.com/r/Dell/comments/7byhjq/disabling_intel_dptf_for_good/dpm6ln9/
+
 ## Annoying fans
 
 https://github.com/AaronKelley/DellFanManagement
