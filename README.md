@@ -31,6 +31,8 @@ https://brendangreenley.com/undervolting-2020-dell-laptops-like-the-vostro-7500-
 
 https://bradshacks.com/disable-dptf/#:~:text=In%20Device%20Manager%2C%20find%20all,for%20this%20device%22%20whenever%20available
 
+https://www.reddit.com/r/Dell/comments/kpaouc/g7_15_7590_uefi_unlock_undervolting_and_remove/
+
 ## Annoying fans
 
 https://github.com/AaronKelley/DellFanManagement
