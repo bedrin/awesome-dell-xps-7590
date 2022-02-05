@@ -13,6 +13,18 @@ https://www.dell.com/community/XPS/XPS-15-7590-touchpad-does-not-respond-sometim
 
 Use hibernate instead of sleep
 
+Alternatievely you can allow PC to spend say 5% of battery in standby and go to sleep after that:
+https://docs.microsoft.com/en-us/windows-hardware/customize/power-settings/adaptive-hibernate
+
+Use following commands to troubleshoot battery drain and wakeups:
+
+powercfg.exe /energy
+powercfg.exe /sleepstudy
+powercfg.exe /batteryreport
+
+Use Throttlestop to check the C0 value. IDeally it should be around 0.5 while computer is idle.
+Otherwise you need to find what softrware has too bad background activity.
+
 ## Coil whine
 
 Undervolting and underclocking using Throttlestop
