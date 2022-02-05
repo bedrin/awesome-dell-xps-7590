@@ -27,6 +27,8 @@ Otherwise you need to find what softrware has too bad background activity.
 
 https://www.tenforums.com/general-support/142867-missing-advanced-power-options-2.html
 
+
+
 ## Coil whine
 
 Undervolting and underclocking using Throttlestop
@@ -52,6 +54,9 @@ https://www.reddit.com/r/Dell/comments/7byhjq/disabling_intel_dptf_for_good/dpm6
 ## Annoying fans
 
 https://github.com/AaronKelley/DellFanManagement
+
+https://docs.microsoft.com/en-us/windows/win32/power/pbt-apmsuspend
+https://superuser.com/questions/1329203/how-can-i-schedule-a-task-to-run-on-pbt-apmsuspend
 
 # Thermal modding
 
