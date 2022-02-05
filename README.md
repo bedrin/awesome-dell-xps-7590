@@ -25,6 +25,8 @@ powercfg.exe /batteryreport
 Use Throttlestop to check the C0 value. IDeally it should be around 0.5 while computer is idle.
 Otherwise you need to find what softrware has too bad background activity.
 
+https://www.tenforums.com/general-support/142867-missing-advanced-power-options-2.html
+
 ## Coil whine
 
 Undervolting and underclocking using Throttlestop
