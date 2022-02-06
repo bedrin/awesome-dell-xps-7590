@@ -100,6 +100,10 @@ Good choise: SK Hynix Gold P31 (up to 2Tb) - https://ssd.skhynix.com/gold_p31/
 
 RAID-0 while possible won't give you any speed improvements due to saturation of PCIe bus as well - https://www.youtube.com/watch?v=DWBvDt96ZTc
 
+While laptop has 2 M2 slots, it makes sense to use single SSD unless you need a lot of storage - it would allow to minimise power draw, heat and weight.
+If you plan to install new Windows on new drive while having the other one connected (like I did) Windows would reuse existing UEFI partition.
+Make sure to disconnect old drive while installing Windows and connect it back for transfering the data.
+
 ## Memory
 
 Even if Dell states that 64Gb is only supported on certain models, in fact it does work not only on XPS series but also on Inspiron / Vostro series.
@@ -110,6 +114,9 @@ For example Patriot Viper Steel memory with timings 18-18-18-43 would not work, 
 If you want to squeeze maximum performance out of your laptop, check carefully if memory would work and make sure you can return it if not.
 
 People on reddit collated a table of supported RAM for the 9570 (previous) generation: https://www.reddit.com/r/Dell/comments/8r55ys/9570_working_ram_kits/
+
+I don't have enough expertise to comment on it but it _might be_ possible to hack the XMP support by flashing the custom bios or updating the UEFI vars.
+See https://www.bios-mods.com/forum/Thread-REWARD-REQUEST-Dell-G7-15-7590-bios-mod for inspiration.
 
 ## Wireless
 
@@ -129,8 +136,6 @@ USB-C monitor recommended since it can both provide power and output video.
 Look for monitors with power output over 65W
 
 If you go for Dell monitor, your laptop will be able to draw over 65 Watts
-
-##
 
 # BIOS
 
