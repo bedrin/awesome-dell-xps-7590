@@ -58,6 +58,8 @@ https://github.com/AaronKelley/DellFanManagement
 https://docs.microsoft.com/en-us/windows/win32/power/pbt-apmsuspend
 https://superuser.com/questions/1329203/how-can-i-schedule-a-task-to-run-on-pbt-apmsuspend
 
+https://efgxt.net/topic/20-dell-fan-management-%E2%80%94-software-for-controlling-the-dell-laptop-fan-speed/
+
 # Thermal modding
 
 https://www.reddit.com/r/Dell/comments/g2qbco/xps_15_custom_heatsink_solution_to_overheating_to/
