@@ -124,6 +124,9 @@ See https://www.bios-mods.com/forum/Thread-REWARD-REQUEST-Dell-G7-15-7590-bios-m
 
 Update to WiFi 6 is possible. No details yet
 
+Bluetooth in "Intel(R) Wireless-AC 9560 160MHz" adapter has some intermittent issues on Dell laptops - sometimes bluetooth becoms unusable until you restart Windows.
+Upgrading wirelesss module _might_ solve these issues.
+
 # Peripherals
 
 ## Charger
