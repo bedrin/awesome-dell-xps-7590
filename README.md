@@ -27,7 +27,13 @@ Otherwise you need to find what softrware has too bad background activity.
 
 https://www.tenforums.com/general-support/142867-missing-advanced-power-options-2.html
 
+## Throttling
 
+Here's the target state for Dell Vostro 7590 (core i7-9750H with RTX 1650):
+https://www.userbenchmark.com/UserRun/53174711
+
+Can be acheived with undervolting, cleaning and removing bloatware.
+See notes on undervolting below.
 
 ## Coil whine
 
