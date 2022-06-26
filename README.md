@@ -66,6 +66,8 @@ https://superuser.com/questions/1329203/how-can-i-schedule-a-task-to-run-on-pbt-
 
 https://efgxt.net/topic/20-dell-fan-management-%E2%80%94-software-for-controlling-the-dell-laptop-fan-speed/
 
+https://www.dell.com/community/XPS/XPS-9530-Replaced-fans-but-now-GPU-fan-only-runs-at-full-blast/td-p/7802303
+
 # Thermal modding
 
 https://www.reddit.com/r/Dell/comments/g2qbco/xps_15_custom_heatsink_solution_to_overheating_to/
